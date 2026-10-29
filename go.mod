@@ -18,7 +18,7 @@ require (
 	github.com/emersion/go-smtp v0.25.0
 	github.com/getsentry/sentry-go v0.48.0
 	github.com/glebarez/sqlite v1.11.0
-	github.com/go-chi/chi/v5 v5.3.2
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-chi/httprate v0.16.0
 	github.com/go-webauthn/webauthn v0.17.4
 	github.com/gohugoio/hashstructure v1.0.0
